@@ -1,16 +1,14 @@
-# cardgame1
+# CardMatch Game
 
-A new Flutter application.
+Some Screenshots..
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Levels of Dificluty
+<image src="Screenshots/1.jpeg" width="220" hight="240">     
+ 
+<image src="Screenshots/2.jpeg" width="220" hight="240"> <image src="Screenshots/3.jpeg" width="220" hight="240"> <image src="Screenshots/4.jpeg" width="220" hight="240">
+  
+# Right matched pairs
+<image src="Screenshots/5.jpeg" width="220" hight="240"> <image src="Screenshots/6.jpeg" width="220" hight="240">
+  
+ # All Matched Pairs
+ <image src="Screenshots/7.jpeg" width="220" hight="240">
