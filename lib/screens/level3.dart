@@ -51,7 +51,7 @@ class _Level3State extends State<Level3> {
 
                 ),
 
-                Padding(padding: EdgeInsets.only(left: 80)),
+                Padding(padding: EdgeInsets.only(left: 50)),
                 Column(
                   children: [
                     Text(

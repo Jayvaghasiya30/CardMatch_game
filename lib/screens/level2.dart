@@ -49,7 +49,7 @@ class _Level2State extends State<Level2> {
 
                 ),
 
-                Padding(padding: EdgeInsets.only(left: 80)),
+                Padding(padding: EdgeInsets.only(left: 50)),
                 Column(
                   children: [
                     Text(
